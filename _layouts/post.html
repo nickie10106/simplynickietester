@@ -16,10 +16,6 @@ layout: default
 		<div class="blog-detail-contents wow fadeInUp">
 			<h2>{{page.title}}</h2>
 			<div class="blog-detail-about clearfix">
-				<div class="media pull-left">
-					<div class="media-left">
-						<img src="/assets/images/avatar.jpg" class="media-object" alt="avatar">
-					</div>
 					<div class="media-body">
 						<h4 class="media-heading">{{site.author_name}}</h4>
 						<p>{{ page.date | date: "%B %-d, %Y" }}</p>
@@ -36,7 +32,7 @@ layout: default
 				<div class="row">
 					<div class="col-md-12">
 						<div class="blog-detail-tags">
-							<ul> 
+							<ul>
 								{% if page.tags.size > 0 %}
 								Tags: {% for tag in page.tags %}
 								<li>
