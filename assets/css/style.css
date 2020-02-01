@@ -1525,12 +1525,12 @@ figure {
 
 #loading{
 	background: rgba(250,31,85,1);
-	background: -moz-linear-gradient(45deg, rgba(250,31,85,1) 0%, rgba(253,115,90,1) 100%);
-	background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(250,31,85,1)), color-stop(100%, rgba(253,115,90,1)));
-	background: -webkit-linear-gradient(45deg, rgba(250,31,85,1) 0%, rgba(253,115,90,1) 100%);
-	background: -o-linear-gradient(45deg, rgba(250,31,85,1) 0%, rgba(253,115,90,1) 100%);
-	background: -ms-linear-gradient(45deg, rgba(250,31,85,1) 0%, rgba(253,115,90,1) 100%);
-	background: linear-gradient(45deg, rgba(250,31,85,1) 0%, rgba(253,115,90,1) 100%);
+	background: -moz-linear-gradient(45deg, rgba(230, 151, 156, 1) 0%, rgba(254, 225, 7, 1) 100%);
+	background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(230, 151, 156, 1)), color-stop(100%, rgba(254, 225, 7, 1)));
+	background: -webkit-linear-gradient(45deg, rgba(230, 151, 156, 1) 0%, rgba(254, 225, 7, 1) 100%);
+	background: -o-linear-gradient(45deg, rgba(230, 151, 156, 1) 0%, rgba(254, 225, 7, 1)100%);
+	background: -ms-linear-gradient(45deg, rgba(230, 151, 156, 1) 0%, rgba(254, 225, 7, 1)100%);
+	background: linear-gradient(45deg, rgba(230, 151, 156, 1) 0%, rgba(254, 225, 7, 1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fa1f55', endColorstr='#fd735a', GradientType=1 );
 	height: 100%;
 	width: 100%;
