@@ -4,7 +4,7 @@ title:  "10 Things to Know Before Getting a Korean Perm"
 description: "A Post I wrote for Team Salon"
 date:   18 October 2018
 banner_preview: blog2.jpg
-banner_image: blog-banner.jpg
+banner_image: blog_banner/blog-banner2.jpg
 category: Design
 tags: [fashion, hairstyles]
 ---
