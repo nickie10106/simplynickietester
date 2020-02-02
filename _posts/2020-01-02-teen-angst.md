@@ -5,7 +5,7 @@ description: "Hype Magazine"
 date: 2019-01-02
 banner_preview: blog3.jpg
 banner_image: blog_banner/blog-banner3.jpg
-category: Passion
+category: Article
 tags: [magazine, psychology]
 ---
 
