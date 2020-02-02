@@ -4,7 +4,7 @@ title:  "Plot Twist: Teen Angst & Depression Are Not The Same"
 description: "Hype Magazine"
 date: 2019-01-02
 banner_preview: blog3.jpg
-banner_image: /blog_banner/blog-banner3.jpg
+banner_image: blog-banner3.jpg
 category: Article
 tags: [magazine, psychology]
 ---
