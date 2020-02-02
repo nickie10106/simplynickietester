@@ -14,24 +14,29 @@ The K-wave has officially invaded the world : from K-dramas to K-pop, Korean ido
 
 ---
 *1. Basic of All Perm Therapy*
+ <br>
 Chalk it up to cultural differences but Korean perms and Japanese perms are definitely not one and the same. Korean perms are known for their amazing, showy waves and locks while Japanese perms are known for their gentler and milder waves. Although both are known for their superior formulas, this distinction is what sets them apart and gives them their own identities.
 
 With all that said, if you are someone who just wants a light perm, whether you choose to go to a Japanese hair salon or Korean hair salon should not be a factor that you need to consider too hard. However, if you are looking to twin with your favourite idol, it might be better to go to a Korean hair salon like Apgujeong Hair Studio, Bump or LeeKaJa which will not only help perm your hair but also style it like your favourite Korean idols so that you can get your envisioned Korean hair style.
 
 *2. The Perfect Korean Perm for Men and Women*
+ <br>
 The perfect perm is one that comes out looking strong and healthy. What do I mean by that? Perms are known to dry out your hair. In some cases, perms can leave your hair breaking and looking extremely frizzy. However, the perfect perm would transform your boring straight hair into beautiful and healthy-looking luscious locks.
 
 *3. What to know and do before you go ahead with any perm/chemical services?*
+ <br>
 You wouldn’t ask a math teacher to teach art. Both may be teachers but that doesn’t mean they specialise in the same thing. Similarly, don’t expect every hair stylist in the salon to specialise in hair perm. To make sure you’ve got the right one, waltz right into the salon and ask for a stylist who specialises in perm or you could check their instagram page, look for the picture closest to your dream curls and ask for the stylist that did them.
 
 Once you have acquired your potential future stylist, show him/her your desired curls and make inquiries about your hair type and potential risks that come with getting a perm.
 Don’t forget to ask about the price point one last time because a stylist can only give you an accurate price after analysing the quality and length of your hair.
 
 *4. Perming Products Used*
+ <br>
 Formula is key. A cheap formula that simply breaks the bonds in your hairs to ‘do the job’ will not do your hair justice. In fact, they are known to dry out your hair, irritate your scalp and weaken the roots of your hair. This is why it is critical that you know what chemicals touch your hair. Of course, I am not asking you to memorise all of the harmful chemicals in the world but chemicals like Parabens, Silicones, Sulfates and Behentrimonium Chloride are some of the most harmful ingredients found in cheap perming formulas. If you see any of these on the ingredients list, it might be better to postpone that perm and find a salon using superior formulas. Try looking for hair salons that carry and use brands with superior formula like Mucoata.
 Perms are not supposed to cause scalp irritations and they are definitely not meant to be uncomfortable. If you feel any discomfort during the process, be sure to inform your stylist. After all, you only have one scalp and you definitely don’t want to damage it.
 
 *5. How Long Will the Perm’s Effect Last*
+ <br>
 Perms definitely are one of the most needy things you have to pay for. How well and how long a perm’s effect will last is mostly based on your efforts! If the perm is well-maintained, it can last from up to 6-10 months. However, if a it is neglected, there is a chance that it may break down into a frizzy mess.
 
 Perms tend to get looser and looser over time so maintaining the strength of the perm is no small feat. Therefore, if you have a busy lifestyle with no extra time to spare, be sure to give it two good think overs before committing to a perm.
