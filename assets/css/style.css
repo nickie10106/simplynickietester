@@ -524,7 +524,7 @@ textarea.form-control {
 	right: 0;
 	top: 0;
 	bottom: 0;
-	background: ##E6979C;
+	/*background: ##E6979C;
 	background: -moz-linear-gradient(45deg, #E6979C 0%, #FEE107 100%);
 	background: -webkit-gradient(left bottom, right top, color-stop(0%, #E6979C), color-stop(100%, #FEE107));
 	background: -webkit-linear-gradient(45deg, #E6979C 0%, #FEE107 100%);
@@ -532,7 +532,7 @@ textarea.form-control {
 	background: -ms-linear-gradient(45deg, #E6979C 0%, #FEE107 100%);
 	background: linear-gradient(45deg, #E6979C 0%, #FEE107 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E6979C', endColorstr='#FEE107', GradientType=1 );
-	opacity: 0.5;
+	opacity: 0.5;*/
 }
 
 .slider:after {
